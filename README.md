@@ -19,3 +19,4 @@ nthread=4, gamma=0,
 max_delta_step=0, subsample=1, colsample_bytree=0.9, colsample_bylevel=0.9,
 reg_alpha=1, reg_lambda=1, scale_pos_weight=1,
 base_score=0.5, seed=2018, missing=None,num_class=15
+
