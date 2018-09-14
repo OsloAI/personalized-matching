@@ -3,10 +3,13 @@
 比赛类型：多分类问题
 
 A榜排名
+
 LightGBM model 0.81245 (2018-09-13 23:13)
+
 XGBoost model 0.8254 排名 30th/1153 (2018-09-14 14:23:04)
 
 XGBoost的关键参数
+
 max_depth=12, learning_rate=0.05,
 n_estimators=752, silent=True,
 objective="multi:softmax",
