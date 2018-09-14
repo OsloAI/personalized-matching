@@ -1,5 +1,7 @@
 比赛网址：https://www.datafountain.cn/competitions/311/details
+
 比赛数据：https://www.datafountain.cn/competitions/311/details/data-evaluation
+
 比赛类型：多分类问题
 
 A榜排名
