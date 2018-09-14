@@ -47,7 +47,7 @@ feature = [value for value in train.columns.values if
 #xgb模型
 def XGB():
     clf = xgb.XGBClassifier(max_depth=12, learning_rate=0.05,
-                            n_estimators=2000, silent=True,
+                            n_estimators=752, silent=True,
                             objective="multi:softmax",
                             nthread=4, gamma=0,
                             max_delta_step=0, subsample=1, colsample_bytree=0.9, colsample_bylevel=0.9,
